@@ -1,0 +1,18 @@
+img {
+    width: 100px;
+    height: 100px;
+}
+
+.landing {
+    margin-left: 25%;
+    margin-right: 25%;
+    width: 600px;
+    height: 600px;
+    border: solid gray 2px;
+    border-radius: 25px;
+}
+
+.aside {
+    
+}
+
